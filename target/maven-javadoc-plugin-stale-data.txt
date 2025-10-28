@@ -1,0 +1,50 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-classpath
+'C:/Users/SV/.m2/repository/com/microsoft/sqlserver/mssql-jdbc/12.6.1.jre11/mssql-jdbc-12.6.1.jre11.jar'
+-encoding
+'UTF-8'
+-protected
+--release
+24
+-sourcepath
+'F:/SPKT 2025-2028/java/maven_JDBC/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'F:/SPKT 2025-2028/java/maven_JDBC/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'maven_JDBC 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'maven_JDBC 1.0-SNAPSHOT API'
+com.mycompany.maven_jdbc
+database
+Model
+UI
+C:\Users\SV\.m2\repository\com\microsoft\sqlserver\mssql-jdbc\12.6.1.jre11\mssql-jdbc-12.6.1.jre11.jar = 1760531388570
+F:\SPKT 2025-2028\java\maven_JDBC\src\main\java = 1761651628082
+F:\SPKT 2025-2028\java\maven_JDBC\target\reports\apidocs\allclasses-index.html = 1761652519127
+F:\SPKT 2025-2028\java\maven_JDBC\target\reports\apidocs\allpackages-index.html = 1761652519132
+F:\SPKT 2025-2028\java\maven_JDBC\target\reports\apidocs\element-list = 1761652518896
+F:\SPKT 2025-2028\java\maven_JDBC\target\reports\apidocs\help-doc.html = 1761652519186
+F:\SPKT 2025-2028\java\maven_JDBC\target\reports\apidocs\index-all.html = 1761652519172
+F:\SPKT 2025-2028\java\maven_JDBC\target\reports\apidocs\index.html = 1761652519098
+F:\SPKT 2025-2028\java\maven_JDBC\target\reports\apidocs\member-search-index.js = 1761652519140
+F:\SPKT 2025-2028\java\maven_JDBC\target\reports\apidocs\module-search-index.js = 1761652519134
+F:\SPKT 2025-2028\java\maven_JDBC\target\reports\apidocs\overview-summary.html = 1761652519180
+F:\SPKT 2025-2028\java\maven_JDBC\target\reports\apidocs\overview-tree.html = 1761652519090
+F:\SPKT 2025-2028\java\maven_JDBC\target\reports\apidocs\package-search-index.js = 1761652519136
+F:\SPKT 2025-2028\java\maven_JDBC\target\reports\apidocs\search.html = 1761652519176
+F:\SPKT 2025-2028\java\maven_JDBC\target\reports\apidocs\serialized-form.html = 1761652519029
+F:\SPKT 2025-2028\java\maven_JDBC\target\reports\apidocs\tag-search-index.js = 1761652519142
+F:\SPKT 2025-2028\java\maven_JDBC\target\reports\apidocs\type-search-index.js = 1761652519138

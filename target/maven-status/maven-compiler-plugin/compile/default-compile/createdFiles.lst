@@ -1,0 +1,9 @@
+Model\SinhVien.class
+database\DatabaseConnection.class
+UI\SinhVien$2.class
+UI\SinhVien$4.class
+com\mycompany\maven_jdbc\Maven_JDBC.class
+UI\SinhVien$3.class
+UI\SinhVien.class
+database\SinhVienDB.class
+UI\SinhVien$1.class

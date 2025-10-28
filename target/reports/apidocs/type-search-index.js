@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"database","l":"DatabaseConnection"},{"p":"com.mycompany.maven_jdbc","l":"Maven_JDBC"},{"p":"Model","l":"SinhVien"},{"p":"UI","l":"SinhVien"},{"p":"database","l":"SinhVienDB"}];updateSearchResults();
